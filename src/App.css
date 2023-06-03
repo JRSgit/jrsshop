@@ -1,0 +1,20 @@
+* {
+  background: #121212;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+input,
+button,
+a,
+textarea {
+  outline: none;
+  border: none;
+}
+
+a,
+li {
+  list-style: none;
+  text-decoration: none;
+}
