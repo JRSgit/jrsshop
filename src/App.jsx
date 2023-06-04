@@ -24,14 +24,14 @@ function App() {
               </li>
               <li className='p-4 hover:scale-105 transition-all border-2  border-blue-500 text-center rounded-lg  bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%  mb-6 w-full'>
                 <a className='flex flex-1 item-center justify-center cursor-pointer text-4xl max-sm:text-2xl' href="https://rifa321.com/rifa/ferro-de-passar-roupas-a-vapor-black-decker" target="_blank" rel="noopener noreferrer">
-                  Rifa
+                  Sorteio
                 </a>
               </li>
             </ul>
           </div>
         </div>
         <footer className='w-full text-center bg-transparent p-4'>
-          <h3 className='text-white'> Copyright® todos os dirreitos resevado. JRS houd</h3>
+          <h3 className='text-white'> Copyright® todos os direitos resevado. JRShoud</h3>
         </footer>
       </div>
     </>
