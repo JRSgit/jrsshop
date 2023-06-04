@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className='w-full h-screen bg-bg-link bg-cover bg-no-repeat flex flex-col justify-start items-center'>
+      <div className='w-full h-screen flex flex-col justify-start items-center'>
         <div className='bg-transparent text-white  w-[50%] p-2 flex flex-col items-center justify-start h-full'>
           <img className='bg-transparent' width={300} src={Logo} alt="" />
 
