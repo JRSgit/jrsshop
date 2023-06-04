@@ -1,13 +1,14 @@
-
 import './App.css'
+
+import Logo from './assets/logo1.png'
 
 function App() {
 
   return (
     <>
-      <div className='w-full h-screen bg-bg-link flex flex-col justify-start items-center'>
+      <div className='w-full h-screen bg-bg-link bg-cover bg-no-repeat flex flex-col justify-start items-center'>
         <div className='bg-transparent text-white  w-[50%] p-2 flex flex-col items-center justify-start h-full'>
-          <h1 className='text-6xl p-4 mb-4 max-md:text-3xl'>JRS Houd</h1>
+          <img className='bg-transparent' width={300} src={Logo} alt="" />
 
           <div className='w-full flex flex-col items-center justify-center'>
             <ul className=' w-full'>
