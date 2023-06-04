@@ -14,7 +14,7 @@ function App() {
             <ul className=' w-full'>
               <li className='p-4 hover:scale-105 transition-all border-2 cursor-pointer border-blue-500 text-center rounded-lg  bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%  mb-6 w-full'>
                 <a className='flex flex-1 item-center justify-center cursor-pointer text-4xl max-sm:text-2xl ' href="https://www.catalogodecalcados.com.br" target="_blank" rel="noopener noreferrer">
-                  Sandarias Torricella
+                  Sandálias Torricella
                 </a>
               </li>
               <li className='p-4 hover:scale-105 transition-all border-2 cursor-pointer border-blue-500 text-center rounded-lg  bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%  mb-6 w-full'>
