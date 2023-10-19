@@ -1,0 +1,178 @@
+export const ordens = [
+  {
+    id: 1,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 2341.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 2,
+    name: {
+      first: 'Maria',
+      last: 'Jose',
+    },
+    total: 3241.56,
+    status: 'Processing',
+    method: 'Pag Seguro',
+    date: '30 Minutes ago',
+  },
+  {
+    id: 3,
+    name: {
+      first: 'Gabriele',
+      last: 'Souza',
+    },
+    total: 1534.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '45 Minutes ago',
+  },
+  {
+    id: 4,
+    name: {
+      first: 'Karol',
+      last: 'Vask',
+    },
+    total: 3561.56,
+    status: 'Efetive',
+    method: 'Pag Seguro',
+    date: '1 hours ago',
+  },
+  {
+    id: 5,
+    name: {
+      first: 'Bianca',
+      last: 'Smith',
+    },
+    total: 1341.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '70 minutes ago',
+  },
+  {
+    id: 6,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 2341.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 7,
+    name: {
+      first: 'Pedro',
+      last: 'Ribeiro',
+    },
+    total: 941.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 8,
+    name: {
+      first: 'Gabriel',
+      last: 'Santos',
+    },
+    total: 3141.56,
+    status: 'Efetive',
+    method: 'Pag Seguro',
+    date: '2 Hours ago',
+  },
+  {
+    id: 9,
+    name: {
+      first: 'Eleine',
+      last: 'Santos',
+    },
+    total: 2341.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '2H 30 Minutes ago',
+  },
+  {
+    id: 10,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 2341.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '30 Minutues ago',
+  },
+  {
+    id: 11,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 1678.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 12,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 2453.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 13,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 980.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 14,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 654.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 15,
+    name: {
+      first: 'Jonh',
+      last: 'Smith',
+    },
+    total: 1235.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '15 Minutues ago',
+  },
+  {
+    id: 16,
+    name: {
+      first: 'Jose',
+      last: 'Ronaldo',
+    },
+    total: 1461.56,
+    status: 'Oh Hold',
+    method: 'Pag Seguro',
+    date: '2 hours ago',
+  },
+]

@@ -11,3 +11,10 @@ h2,
 h3 {
   background-color: transparent;
 }
+
+input,
+textarea,
+button {
+  outline: none;
+  //border: none;
+}

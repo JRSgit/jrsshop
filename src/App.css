@@ -1,11 +1,14 @@
 * {
-  
+
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
-html, body{
-  background-image: url('./assets/bg.jpg');
+
+html,
+body {
+  background: #EDEDED;
+  font-family: 'Roboto Condensed', sans-serif;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -16,11 +19,11 @@ button,
 a,
 textarea {
   outline: none;
-  border: none;
+  //border: none;
 }
 
 a,
 li {
-  list-style: none;
+  /* list-style: none; */
   text-decoration: none;
 }
